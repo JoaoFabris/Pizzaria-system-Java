@@ -1,0 +1,20 @@
+implementar o método de alterar pedido
+implementar o método de gerar relatorio
+implementar metodo de calculo de frete
+
+mostrar como eu fiz
+
+
+implementar o método de alterar pedido: preciso pedir o id ou nome do cliente,  ✅
+-- essa func estao no arquivo PIZZARIA
+poder add ou remover uma pizza q esta nesse pedido, 
+remover ou alterar sabores q ja esta no pedido
+
+implementar o método de gerar relatorio ✅
+-- essa func estao no arquivo PIZZARIA
+usar GRAFO/AROVRE, fazer ligações de sabores mais pedidos, ligações entre sabores, para saber qual COMBINAÇÃO esta sendo mais pedido
+exibir faturamento total
+
+implementar metodo de calculo de frete  ✅
+calculo por distancia para motoboy andar
+soma entre km e peso, se ele ta levando 10 pizzas vai ser mais caro pra aquela distancia
